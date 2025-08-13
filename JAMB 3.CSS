@@ -1,0 +1,45 @@
+body{
+    background-image: url(JAMB\ LOGO.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.on{
+    text-align: center;
+     
+}
+#to{
+    text-align: center;
+    marquees:vertical
+    
+}
+.to{
+    text-align: center;   
+}
+
+#we{
+    height: 200px;
+    width: 200px;
+    border: 2 solid black;
+    margin: auto;
+    right: 500px;
+ }
+
+#in{
+    text-align: centre;
+    margin-top: -90px;
+    padding: 30px;
+}
+#on{
+    text-align: centre;
+    margin-top: -90px;
+    padding: 30px;
+}
+#we{
+    text-align: center;
+    margin-top: -90px;
+    padding: 30px;  
+}   
+#it{
+    text-align:center;
+}
